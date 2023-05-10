@@ -1,0 +1,20 @@
+type: google.api.Service
+config_version: 3
+http:
+  rules:
+    - selector: pb.BasketService.StartBasket
+      post: /api/baskets
+      body: "*"
+    - selector: pb.BasketService.GetBasket
+      get: /api/baskets/{id}
+    - selector: pb.BasketService.CancelBasket
+      delete: /api/baskets/{id}
+    - selector: pb.BasketService.CheckoutBasket
+      put: /api/baskets/{id}/checkout
+      body: "*"
+    - selector: pb.BasketService.AddItem
+      put: /api/baskets/{id}/addItem
+      body: "*"
+    - selector: pb.BasketService.RemoveItem
+      put: /api/baskets/{id}/removeItem
+      body: "*"
