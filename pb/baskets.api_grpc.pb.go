@@ -2,7 +2,7 @@
 // versions:
 // - protoc-gen-go-grpc v1.3.0
 // - protoc             (unknown)
-// source: pb/api.proto
+// source: pb/baskets.api.proto
 
 package pb
 
@@ -290,5 +290,5 @@ var BasketService_ServiceDesc = grpc.ServiceDesc{
 		},
 	},
 	Streams:  []grpc.StreamDesc{},
-	Metadata: "pb/api.proto",
+	Metadata: "pb/baskets.api.proto",
 }
