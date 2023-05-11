@@ -8,8 +8,6 @@ github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.3 h1:BGNSrTRW4rwfhJiFwvwF4XQ0Y72Jj9YEgxVrtovbD5o=
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.3/go.mod h1:VHn7KgNsRriXa4mcgtkpR00OXyQY6g67JWMvn+R27A4=
-github.com/v8tix/eda v1.0.1 h1:fI0i0RnpRyhpltumkW2slvWvfhvYNjcTq18RneOkkNw=
-github.com/v8tix/eda v1.0.1/go.mod h1:p6DgkAVZuA0kn3wEv8tEXJ0WuTmLgABgz3YFQWZv+TA=
 golang.org/x/net v0.9.0 h1:aWJ/m6xSmxWBx+V0XRHTlrYrPG56jKsLdTFmsSsCzOM=
 golang.org/x/net v0.9.0/go.mod h1:d48xBJpPfHeWQsugry2m+kC02ZBRGRgulfHnEXEuWns=
 golang.org/x/sys v0.7.0 h1:3jlCCIQZPdOYu1h8BkNvLz8Kgwtae2cagcG/VamtZRU=
