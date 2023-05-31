@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/go-chi/chi/v5 v5.0.8
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.3
-	github.com/v8tix/eda v1.0.5
+	github.com/v8tix/eda v1.0.6
 	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.28.1
 )
